@@ -31,5 +31,6 @@ Are you ready to share your stories with the world? Whether you're a creator loo
 ---
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2013/07/13/12/47/girl-160326_1280.png" alt="Hoshimya Animation Logo">
+  <!-- Temporal picture -->
+  <img src="https://cdn.pixabay.com/photo/2013/07/13/12/47/girl-160326_1280.png" alt="Hoshimya Animation Logo" width="100px" height="100px">
 </p>
